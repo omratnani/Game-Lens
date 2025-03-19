@@ -76,9 +76,9 @@ The dataset consists of 20,000 game entries with the following attributes:
 - **Best price for an indie action game**: ~$6.
 
 ## 📌 Contributors
+- **Om Kirshana** 
 - **Mohammed Ali Khowaja** 
 - **Muhammad Hamza Javed** 
-- **Om Kirshana** 
 - **Manoj Kumar** 
 - **Asfund Ali Amjad** 
 
