@@ -38,6 +38,33 @@ The dataset consists of 20,000 game entries with the following attributes:
 # Frequency of Genres across all games
 ![image](https://github.com/user-attachments/assets/aa9a336f-4a04-4fa9-bd52-5e5dbde461ce)
 
+# Game Popularity over time
+![image](https://github.com/user-attachments/assets/0734a663-430f-40d7-8a0a-190597d573b1)
+
+## Dashboards
+# Genral 
+![image](https://github.com/user-attachments/assets/1ddf6215-36d9-4e19-9b17-df0be3793604)
+
+# Game Popularity by Genre 
+![image](https://github.com/user-attachments/assets/6b514d79-d8f2-42fd-844a-27465b0df174)
+![image](https://github.com/user-attachments/assets/5a093001-3af4-4757-b312-c19f86e5e143)
+
+# Overall Game Popularity
+![image](https://github.com/user-attachments/assets/9d244c74-09a9-4356-a84e-4d7e629a9a6a)
+
+# Pricing
+![image](https://github.com/user-attachments/assets/8009cdae-6257-4661-ac23-f73c177bf93a)
+
+# AI Models
+# Personalized Game Recommendation Model
+![image](https://github.com/user-attachments/assets/e3476557-ee66-4e75-bd87-6438ba374368)
+
+# Game Success Predictor
+![image](https://github.com/user-attachments/assets/610665a3-4d53-4cf2-a82c-935f110b719b)
+![image](https://github.com/user-attachments/assets/6a6051c9-64c7-4886-b354-c7ddc4cac92f)
+
+
+
 
 
 
@@ -49,11 +76,11 @@ The dataset consists of 20,000 game entries with the following attributes:
 - **Best price for an indie action game**: ~$6.
 
 ## 📌 Contributors
-- **Mohammed Ali Khowaja** (2112150)
-- **Muhammad Hamza Javed** (2112153)
-- **Om Kirshana** (2112283)
-- **Manoj Kumar** (2112147)
-- **Asfund Ali Amjad** (2112341)
+- **Mohammed Ali Khowaja** 
+- **Muhammad Hamza Javed** 
+- **Om Kirshana** 
+- **Manoj Kumar** 
+- **Asfund Ali Amjad** 
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
